@@ -1,0 +1,3 @@
+Develop client applications and integrations with the [Google Analytics Data Export API](http://code.google.com/apis/analytics/docs/gdata/gdataDeveloperGuide.html) by downloading Google Analytics data in the form of Google Data API feeds. Your client application can request data from an existing Analytics profile and you can refine results using query parameters.
+
+With the Data Export API you can integrate Google Analytics data with your own business data, create customized dashboards of your most common statistics and develop applications to help you more efficiently and creatively manage your Analytics data.
